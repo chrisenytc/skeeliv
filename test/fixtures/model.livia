@@ -1,0 +1,16 @@
+/**
+ * Module dependencies.
+ */
+
+var mongoose = require('mongoose'),
+    Schema = mongoose.Schema;
+
+
+/**
+ * {:name:} Schema
+ */
+var {:name:}Schema = new Schema({
+{:repeat:}
+});
+
+mongoose.model('{:name:}', {:name:}Schema);

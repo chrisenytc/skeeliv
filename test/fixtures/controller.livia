@@ -1,0 +1,10 @@
+
+/**
+ * {:name:}Controller
+ *    `/{:name:}`
+ */
+
+exports.{:name:} = function(req, res) {
+    //
+    res.view();
+};
