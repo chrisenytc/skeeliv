@@ -1,4 +1,4 @@
-# Skeeliv [![Build Status](https://travis-ci.org/chrisenytc/skeeliv.png?branch=master)](https://travis-ci.org/chrisenytc/skeeliv) [![Dependency Status](https://gemnasium.com/chrisenytc/skeeliv.png)](https://gemnasium.com/chrisenytc/skeeliv) [![NPM version](https://badge.fury.io/js/skeeliv.png)](http://badge.fury.io/js/skeeliv) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/skeeliv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Skeeliv [![Build Status](https://travis-ci.org/chrisenytc/skeeliv.png?branch=master)](https://travis-ci.org/chrisenytc/skeeliv) [![Dependency Status](https://gemnasium.com/chrisenytc/skeeliv.png)](https://gemnasium.com/chrisenytc/skeeliv) [![NPM version](https://badge-me.herokuapp.com/api/npm/skeeliv.png)](http://badges.enytc.com/for/npm/skeeliv) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/skeeliv/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 > Create Sckeleton Templates
 
 A skeleton builder for create files with template
